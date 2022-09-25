@@ -1,3 +1,15 @@
+# Weather App (ReactJs)
+
+Welcome to the project. Please use the following link to visit the live project- https://swapnil-weather-app-react.netlify.app/
+
+# TechStack Used
+
+HTML, CSS, JavaScript, ReactJs, APIs
+
+# Demonstration Video
+
+https://user-images.githubusercontent.com/101203567/192157710-a5665c19-d498-4211-9aa0-983cfd5a9239.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
